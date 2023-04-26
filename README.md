@@ -17,10 +17,10 @@ Modified the script (from the link above) so, that it reacts to a given soundtra
 ## What I learnt?
 
 - Got to know the p5.js library
-- Using sound to reactive art is cool
+- Using sound to make reactive art is cool
 - Mathematics itself is art
 
 ## Future plans
 
-- Learn more maths to strengthen foundation and be able to recognize patterns with its power
+- Learn more maths to strengthen foundation and be able to recognize & create patterns with its power
 - Create own (reactive) art with maths
